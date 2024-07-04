@@ -10,7 +10,7 @@
   "semanticColors": {
     "ANDROID_RIPPLE": ["#eb6f9250"],
     "HEADER_PRIMARY": ["#FCED0A"],
-    "HEADER_SECONDARY": ["#e0def4"],
+    "HEADER_SECONDARY": ["#00F0FD"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_MUTED": ["#D793d5"],
     "INTERACTIVE_NORMAL": ["#5e61ff"],
